@@ -1,4 +1,4 @@
-![MasterHead](https://im3.ezgif.com/tmp/ezgif-3-59fba6c752.gif)
+![logo](https://github.com/RajilAziz/RajilAziz/blob/main/Github-Profile-Banner%20.gif)
 <h1 align="center">Hi 👋, I'm Rajil Aziz</h1>
 <h3 align="center">Passionate about coding and development</h3>
 <img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif"/>
