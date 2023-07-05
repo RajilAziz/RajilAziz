@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400"  src="https://i.pinimg.com/originals/b6/c1/39/b6c139218f634f42b32dd4d48c8ebbb0.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajilaziz&label=Profile%20views&color=0e75b6&style=flat" alt="rajilaziz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/r@aziz125867" target="blank"><img src="https://img.shields.io/twitter/follow/r@aziz125867?logo=twitter&style=for-the-badge" alt="r@aziz125867" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aziz125867" target="blank"><img src="https://img.shields.io/twitter/follow/aziz125867?logo=twitter&style=for-the-badge" alt="r@aziz125867" /></a> </p>
 
 - 🌱 I’m currently learning **React & Tailwind**
 
