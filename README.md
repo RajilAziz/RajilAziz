@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **azizrajil03@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/16H8YHK1hk1LiWCTES7x8h4G9lYRAJI6S/view?usp=sharing](https://drive.google.com/file/d/16H8YHK1hk1LiWCTES7x8h4G9lYRAJI6S/view?usp=sharing](https://drive.google.com/file/d/1CdzQhWO9vLo9xMGR8Dqfforh8Uo0bzmS/view?usp=sharing))](https://drive.google.com/file/d/1CdzQhWO9vLo9xMGR8Dqfforh8Uo0bzmS/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1CdzQhWO9vLo9xMGR8Dqfforh8Uo0bzmS/view?usp=sharing
 - ⚡ Fun fact **I am Painstaking & Industrious**
 
 <h3 align="left">Connect with me:</h3>
